@@ -1,0 +1,42 @@
+body{
+    background-image: url("./images/bgDesktop.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bgcol{
+    background-color: #674BB1;
+}
+.logo{
+    width: 175px;
+}
+.paragraph{
+    color: #D7C8F0;
+    font-size: 16px;
+}
+.registerBTN{
+    text-decoration: none;
+    background-color: white;
+    width: 200px;
+    height: 40px;
+    border: none;
+    border-radius: 20px;
+    color: black;
+    font-weight: bold;
+}
+.registerBTN:hover{
+    text-decoration: none;
+    background-color: #E980E7;
+    color: white;
+}
+
+.iconcol{
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}
+
+.iconcol:hover{
+    text-decoration: none;
+    color:  #E980E7;
+    cursor: pointer;
+}
